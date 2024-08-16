@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: openea_torch
+Version: 1.0
+Summary: A package for embedding-based entity alignment
+Home-page: 
+Author: Noo
+Author-email: 
+Maintainer: 
+Maintainer-email: 
+License: MIT
+Keywords: Knowledge Graph,Embeddings,Entity Alignment
+Requires-Dist: torch
+Requires-Dist: pandas
+Requires-Dist: matching
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: gensim
+Requires-Dist: python-Levenshtein
+Requires-Dist: scipy

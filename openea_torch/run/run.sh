@@ -1,0 +1,1 @@
+python main_from_args.py ./args/bootea_transH_tongji_DL.json LAB 721_5fold/1/

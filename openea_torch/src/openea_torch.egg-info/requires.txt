@@ -1,0 +1,8 @@
+torch
+pandas
+matching
+scikit-learn
+numpy
+gensim
+python-Levenshtein
+scipy
